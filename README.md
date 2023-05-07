@@ -16,3 +16,6 @@ Step 5: Click “Deploy” and you’re all done!
 
 
 App Link: https://shivamsingh96-deployement-of-automatic-water-qualit-main-8ftkls.streamlit.app/
+
+
+Blog Link: https://medium.com/@sshivam-singh96/deployment-of-water-quality-prediction-system-on-streamlit-cloud-7fde125ebc59
